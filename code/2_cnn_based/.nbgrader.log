@@ -1,0 +1,565 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Harsh\Desktop\Acads\4-2\CS Lab Project\code\2_cnn_based
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=ce06d8aead8cf96a441b153b0c8305427f9a694d2316f949
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Harsh/AppData/Roaming/jupyter/runtime/nbserver-3140-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=ce06d8aead8cf96a441b153b0c8305427f9a694d2316f949
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 6969b58d-e321-467f-b4ce-19b2030ff07c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6969b58d-e321-467f-b4ce-19b2030ff07c
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Starting buffering for 6969b58d-e321-467f-b4ce-19b2030ff07c:3af065e9744b465fac6e5bd78d61355e
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Harsh\Desktop\Acads\4-2\CS Lab Project\code\2_cnn_based
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=c8b459eeaf85b9811bf9e5ed9e4960ce267fc67de219be2a
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Harsh/AppData/Roaming/jupyter/runtime/nbserver-13304-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=c8b459eeaf85b9811bf9e5ed9e4960ce267fc67de219be2a
+[NotebookApp | INFO] Kernel started: 7255ac71-121e-4c21-90d9-7a9d5e17c7e1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7255ac71-121e-4c21-90d9-7a9d5e17c7e1
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Starting buffering for 7255ac71-121e-4c21-90d9-7a9d5e17c7e1:c3a2992482ae4db6aba11d0c2b097a68
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Harsh\Desktop\Acads\4-2\CS Lab Project\code\2_cnn_based
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=79d37e3e8d5407c990765a64b5f884d456e48ab6128b29cb
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Harsh/AppData/Roaming/jupyter/runtime/nbserver-18708-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=79d37e3e8d5407c990765a64b5f884d456e48ab6128b29cb
+[NotebookApp | INFO] Kernel started: ff5f5de8-8922-4b0e-9306-df4d9b0f8af2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ff5f5de8-8922-4b0e-9306-df4d9b0f8af2
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Harsh\Desktop\Acads\4-2\CS Lab Project\code\2_cnn_based
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8891/?token=c9233d284cb956e1fced879803f1ca909214feaea1ca1009
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Harsh/AppData/Roaming/jupyter/runtime/nbserver-18504-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8891/?token=c9233d284cb956e1fced879803f1ca909214feaea1ca1009
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 9fe4d911-281f-4c15-a319-04376d5d5df5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 9fe4d911-281f-4c15-a319-04376d5d5df5
+[NotebookApp | INFO] Saving file at /Regression.ipynb
+[NotebookApp | INFO] Saving file at /Regression.ipynb
+[NotebookApp | INFO] Saving file at /Regression.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Starting buffering for ff5f5de8-8922-4b0e-9306-df4d9b0f8af2:ab7dae7d3aed487784465a200ad2dcf9
+[NotebookApp | INFO] Kernel restarted: ff5f5de8-8922-4b0e-9306-df4d9b0f8af2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ff5f5de8-8922-4b0e-9306-df4d9b0f8af2
+[NotebookApp | INFO] Restoring connection for ff5f5de8-8922-4b0e-9306-df4d9b0f8af2:ab7dae7d3aed487784465a200ad2dcf9
+[NotebookApp | INFO] Replaying 8 buffered messages
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Saving file at /Analysis.ipynb
+[NotebookApp | INFO] Starting buffering for ff5f5de8-8922-4b0e-9306-df4d9b0f8af2:ab7dae7d3aed487784465a200ad2dcf9
+[NotebookApp | INFO] Starting buffering for 9fe4d911-281f-4c15-a319-04376d5d5df5:5df8784d139244bba667db0e60f1f3a5
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Harsh\Desktop\Acads\4-2\CS Lab Project\code\2_cnn_based
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=8831e6019f242a144a5712db6a44adad1fc3873c231d23f8
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Harsh/AppData/Roaming/jupyter/runtime/nbserver-11432-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=8831e6019f242a144a5712db6a44adad1fc3873c231d23f8
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: b591ead6-3df9-4b34-9610-351c65c240f5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b591ead6-3df9-4b34-9610-351c65c240f5
+[NotebookApp | INFO] Kernel started: db2374bf-6ce2-45a6-b0fa-22512d8ebdf0
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel db2374bf-6ce2-45a6-b0fa-22512d8ebdf0
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Regression_without_tfidf.ipynb
+[NotebookApp | INFO] Saving file at /Regression_without_tfidf.ipynb
+[NotebookApp | INFO] Saving file at /Regression_without_tfidf.ipynb
+[NotebookApp | INFO] Saving file at /Regression_without_tfidf.ipynb
+[NotebookApp | INFO] Saving file at /Regression_without_tfidf.ipynb
+[NotebookApp | INFO] Saving file at /Regression_without_tfidf.ipynb
+[NotebookApp | INFO] Saving file at /Regression_without_tfidf.ipynb
+[NotebookApp | INFO] Saving file at /Regression_without_tfidf.ipynb
+[NotebookApp | INFO] Saving file at /Regression_without_tfidf.ipynb
+[NotebookApp | INFO] Saving file at /Regression_without_tfidf.ipynb
+[NotebookApp | INFO] Starting buffering for db2374bf-6ce2-45a6-b0fa-22512d8ebdf0:0c605ff951cb47c88dbf242277773557
+[NotebookApp | INFO] Starting buffering for b591ead6-3df9-4b34-9610-351c65c240f5:07869ae05f474cf4932b0fe4bf1b130a
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Harsh\Desktop\Acads\4-2\CS Lab Project\code\2_cnn_based
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=5870fdf035b71290e6fc40d2e779664fbc76af7aef445cc3
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Harsh/AppData/Roaming/jupyter/runtime/nbserver-10432-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=5870fdf035b71290e6fc40d2e779664fbc76af7aef445cc3
+[NotebookApp | WARNING] Notebook Analysis_tfidf_latent.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 5206cd80-92b6-44f1-8914-3b1cb33f2747
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5206cd80-92b6-44f1-8914-3b1cb33f2747
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Harsh\Desktop\Acads\4-2\CS Lab Project\code\2_cnn_based
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=0f649ca7f741d826ed2ab48bae406be43c251081c35b0b53
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Harsh/AppData/Roaming/jupyter/runtime/nbserver-308-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=0f649ca7f741d826ed2ab48bae406be43c251081c35b0b53
+[NotebookApp | WARNING] Notebook fake-news-nlp-stuff.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 9dd55370-b011-4b63-a55e-13f069429d7f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 9dd55370-b011-4b63-a55e-13f069429d7f
+[NotebookApp | INFO] Saving file at /Analysis_tfidf_latent.ipynb
+[NotebookApp | WARNING] Notebook Analysis_tfidf_latent.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 9dd55370-b011-4b63-a55e-13f069429d7f:0969170494284a1dbfe06c71aef7bc09
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Harsh\Desktop\Acads\4-2\CS Lab Project\code\2_cnn_based
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8890/?token=19f7c2a27ec263247258ee94d22a727b8d48a557a2f7bc64
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Harsh/AppData/Roaming/jupyter/runtime/nbserver-15116-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8890/?token=19f7c2a27ec263247258ee94d22a727b8d48a557a2f7bc64
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 4997d77e-2a76-4bfe-b06b-75f53a7e01c8
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 4997d77e-2a76-4bfe-b06b-75f53a7e01c8
+[NotebookApp | INFO] Saving file at /Analysis_tfidf_latent.ipynb
+[NotebookApp | WARNING] Notebook Analysis_tfidf_latent.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Kernel interrupted: 4997d77e-2a76-4bfe-b06b-75f53a7e01c8
+[NotebookApp | INFO] Starting buffering for 4997d77e-2a76-4bfe-b06b-75f53a7e01c8:d53c55a5a3f44a82b781e4c0746e56a7
+[NotebookApp | INFO] Kernel restarted: 4997d77e-2a76-4bfe-b06b-75f53a7e01c8
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 4997d77e-2a76-4bfe-b06b-75f53a7e01c8
+[NotebookApp | INFO] Restoring connection for 4997d77e-2a76-4bfe-b06b-75f53a7e01c8:d53c55a5a3f44a82b781e4c0746e56a7
+[NotebookApp | INFO] Replaying 2 buffered messages
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /Untitled.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Starting buffering for 4997d77e-2a76-4bfe-b06b-75f53a7e01c8:d53c55a5a3f44a82b781e4c0746e56a7
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Harsh\Desktop\Acads\4-2\CS Lab Project\code\2_cnn_based
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=6890282b31d3d4a2e385a576c47a4b69efdcc0733857c905
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Harsh/AppData/Roaming/jupyter/runtime/nbserver-11712-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=6890282b31d3d4a2e385a576c47a4b69efdcc0733857c905
+[NotebookApp | INFO] Kernel started: 0be42dc3-490e-4a65-a418-5243449c4367
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0be42dc3-490e-4a65-a418-5243449c4367
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Kernel interrupted: 0be42dc3-490e-4a65-a418-5243449c4367
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | WARNING] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[NotebookApp | WARNING] iopub messages resumed
+[NotebookApp | WARNING] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_data_rate_limit=1000000.0 (bytes/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[NotebookApp | WARNING] iopub messages resumed
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Harsh\Desktop\Acads\4-2\CS Lab Project\code\2_cnn_based
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=4dba5c3b4f24d2a0fbb9c0380e082f6a99bfe348d0fba5b8
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Harsh/AppData/Roaming/jupyter/runtime/nbserver-9176-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=4dba5c3b4f24d2a0fbb9c0380e082f6a99bfe348d0fba5b8
+[NotebookApp | INFO] Kernel started: 4e983ca5-2f49-4886-92b9-2df89e85bcdf
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 4e983ca5-2f49-4886-92b9-2df89e85bcdf
+[NotebookApp | INFO] Starting buffering for 4e983ca5-2f49-4886-92b9-2df89e85bcdf:e801e89b2c384f898459f34b15c3249d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 4e983ca5-2f49-4886-92b9-2df89e85bcdf
+[NotebookApp | INFO] Starting buffering for 4e983ca5-2f49-4886-92b9-2df89e85bcdf:1bcd9179b64841ff8efa5218824de957
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 4e983ca5-2f49-4886-92b9-2df89e85bcdf
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | WARNING] WebSocket ping timeout after 7590490 ms.
+[NotebookApp | INFO] Starting buffering for 4e983ca5-2f49-4886-92b9-2df89e85bcdf:de091c6a0f4842a2a4b440011da61799
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Harsh\Desktop\Acads\4-2\CS Lab Project\code\2_cnn_based
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=010501b01a9fd1c96b015915e3d7e59e58cbcc891f4d8831
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Harsh/AppData/Roaming/jupyter/runtime/nbserver-16316-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=010501b01a9fd1c96b015915e3d7e59e58cbcc891f4d8831
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 556145db-9536-4b40-b341-2106f5d4c3a3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 556145db-9536-4b40-b341-2106f5d4c3a3
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | WARNING] Notebook fake-news-nlp-stuff.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: eabe6d05-3878-4f70-a3db-96ec81663151
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel eabe6d05-3878-4f70-a3db-96ec81663151
+[NotebookApp | INFO] Kernel started: 7561e613-a264-4e81-8a97-2d292e10ef7e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7561e613-a264-4e81-8a97-2d292e10ef7e
+[NotebookApp | INFO] Saving file at /fake-news-nlp-stuff.ipynb
+[NotebookApp | WARNING] Notebook fake-news-nlp-stuff.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Kernel started: 1c8daa87-50b8-4168-8190-cec490b93e27
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1c8daa87-50b8-4168-8190-cec490b93e27
+[NotebookApp | WARNING] Notebook Analysis_tfidf_latent.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 73b513a5-b293-4555-896e-6a7d7505a083
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 73b513a5-b293-4555-896e-6a7d7505a083
+[NotebookApp | INFO] Starting buffering for 1c8daa87-50b8-4168-8190-cec490b93e27:7257c9cf5476475b8de093a7f5928d30
+[NotebookApp | INFO] Kernel started: 07ce1c2c-0768-42d9-a050-0b73db8599b1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 07ce1c2c-0768-42d9-a050-0b73db8599b1
+[NotebookApp | INFO] Saving file at /Regression_without_tfidf.ipynb
+[NotebookApp | INFO] Saving file at /Regression_without_tfidf.ipynb
+[NotebookApp | INFO] Saving file at /Regression_without_tfidf.ipynb
+[NotebookApp | INFO] Saving file at /Regression_without_tfidf.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Starting buffering for eabe6d05-3878-4f70-a3db-96ec81663151:5714d395f14b400a871874d71ffd06ff
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /Regression_without_tfidf.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] KernelRestarter: restarting kernel (1/5), keep random ports
+[NotebookApp | INFO] Starting buffering for 73b513a5-b293-4555-896e-6a7d7505a083:efb9ca380fd94891b2c23220999b08b4
+[NotebookApp | INFO] Starting buffering for 07ce1c2c-0768-42d9-a050-0b73db8599b1:19bd76976f1d43ee8920e1a39649b7c6
+[NotebookApp | INFO] Starting buffering for 556145db-9536-4b40-b341-2106f5d4c3a3:d0542ad4aaf84bdf8a64879d4dd1e646
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] KernelRestarter: restarting kernel (1/5), keep random ports
+[NotebookApp | INFO] KernelRestarter: restarting kernel (1/5), keep random ports
+[NotebookApp | INFO] KernelRestarter: restarting kernel (1/5), keep random ports
+[NotebookApp | INFO] KernelRestarter: restarting kernel (1/5), keep random ports
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] KernelRestarter: restarting kernel (1/5), keep random ports
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Harsh\Desktop\Acads\4-2\CS Lab Project\code\2_cnn_based
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=f73b4530e3098c39c7ea77a5471d3d37c9f0e07a1f97ed25
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Harsh/AppData/Roaming/jupyter/runtime/nbserver-17672-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=f73b4530e3098c39c7ea77a5471d3d37c9f0e07a1f97ed25
+[NotebookApp | INFO] Kernel started: 95646eff-3233-48b4-b4fd-19d37880aed7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 95646eff-3233-48b4-b4fd-19d37880aed7
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | WARNING] WebSocket ping timeout after 27389996 ms.
+[NotebookApp | INFO] Starting buffering for 95646eff-3233-48b4-b4fd-19d37880aed7:b97cc4d331b54be5b6a1b1ecad1880c5
+[NotebookApp | INFO] Kernel restarted: 95646eff-3233-48b4-b4fd-19d37880aed7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 95646eff-3233-48b4-b4fd-19d37880aed7
+[NotebookApp | INFO] Restoring connection for 95646eff-3233-48b4-b4fd-19d37880aed7:b97cc4d331b54be5b6a1b1ecad1880c5
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Starting buffering for 95646eff-3233-48b4-b4fd-19d37880aed7:b97cc4d331b54be5b6a1b1ecad1880c5
+[NotebookApp | INFO] Kernel started: 437ab18e-b704-4d5d-b4de-1afd9242605c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 437ab18e-b704-4d5d-b4de-1afd9242605c
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] KernelRestarter: restarting kernel (1/5), keep random ports
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] KernelRestarter: restarting kernel (1/5), keep random ports
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Harsh\Desktop\Acads\4-2\CS Lab Project\code\2_cnn_based
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=edf2f168c959950bd6123f4a3a36cb860430374ea979b638
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Harsh/AppData/Roaming/jupyter/runtime/nbserver-9520-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=edf2f168c959950bd6123f4a3a36cb860430374ea979b638
+[NotebookApp | INFO] Kernel started: e2581c6a-db31-4f68-a2d3-dcb8ffffb686
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e2581c6a-db31-4f68-a2d3-dcb8ffffb686
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Starting buffering for e2581c6a-db31-4f68-a2d3-dcb8ffffb686:95168d5adb86451a8bd51d7c947232e7
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: C:\Users\Harsh\Desktop\Acads\4-2\CS Lab Project\code\2_cnn_based
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=9cbc1ca6ed4f6cb2a8e0f92882d041464ed2a130b7ba85e2
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/Harsh/AppData/Roaming/jupyter/runtime/nbserver-16488-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=9cbc1ca6ed4f6cb2a8e0f92882d041464ed2a130b7ba85e2
+[NotebookApp | INFO] Kernel started: ae517984-57d3-4ed9-9e38-cbd0cb51c707
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ae517984-57d3-4ed9-9e38-cbd0cb51c707
+[NotebookApp | WARNING] Notebook Analysis_tfidf_latent.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 690fb4c6-e2a2-484a-b0af-ca97055d3ebd
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 690fb4c6-e2a2-484a-b0af-ca97055d3ebd
+[NotebookApp | INFO] Kernel started: 099f7cb6-db78-43a5-90be-f3645f750599
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 099f7cb6-db78-43a5-90be-f3645f750599
+[NotebookApp | INFO] Kernel started: 2a3c6e5a-c062-4152-ae40-2ab30e8fd848
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2a3c6e5a-c062-4152-ae40-2ab30e8fd848
+[NotebookApp | INFO] Starting buffering for 2a3c6e5a-c062-4152-ae40-2ab30e8fd848:071a889e373245c0806169116def23fb
+[NotebookApp | INFO] Kernel restarted: 2a3c6e5a-c062-4152-ae40-2ab30e8fd848
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2a3c6e5a-c062-4152-ae40-2ab30e8fd848
+[NotebookApp | INFO] Restoring connection for 2a3c6e5a-c062-4152-ae40-2ab30e8fd848:071a889e373245c0806169116def23fb
+[NotebookApp | INFO] Saving file at /LSTM_approach.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Saving file at /CNN_based_models.ipynb
+[NotebookApp | INFO] Starting buffering for 2a3c6e5a-c062-4152-ae40-2ab30e8fd848:071a889e373245c0806169116def23fb
+[NotebookApp | INFO] Starting buffering for 099f7cb6-db78-43a5-90be-f3645f750599:71df65e4fca54d748dcf16eafb42e0c9
+[NotebookApp | INFO] Starting buffering for 690fb4c6-e2a2-484a-b0af-ca97055d3ebd:3577197eed884d33873371d6857265e4
+[NotebookApp | INFO] Starting buffering for ae517984-57d3-4ed9-9e38-cbd0cb51c707:27bf733508ed46fdb3f78572359649fe
